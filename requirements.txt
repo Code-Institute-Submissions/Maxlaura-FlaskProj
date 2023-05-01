@@ -2,7 +2,7 @@ bson==0.5.10
 click==7.1.2
 dnspython==1.16.0
 dominate==2.5.1
-Flask==1.1.2
+Flask==2.3.2
 Flask-Bootstrap==3.3.7.1
 gunicorn==19.10.0
 itsdangerous==1.1.0
